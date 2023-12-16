@@ -1,2 +1,4 @@
 # RDTSC-patch
-Patching RDTSC for kernel 6.0-12arch1
+Will do tmr
+
+!remind 12h RDTSC
